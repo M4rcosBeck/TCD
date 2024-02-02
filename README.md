@@ -1,7 +1,7 @@
 # Lixeira Inteligente
 
 ## Documentação
-* [Faeterj - TCD - Projeto Lixeira Inteligente](./documentaion/Faeterj__TCD____Projeto_Lixeira_Inteligente.pdf)
+* [Dcoumentação](./documentation/Documentação.md)
 
 ## Programação
 * [Código-Fonte do Arduino UNO](./arduino_codigo_fonte.cpp)
